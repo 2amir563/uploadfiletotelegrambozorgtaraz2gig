@@ -12,5 +12,5 @@
 
 
 ```
-
+bash <(curl -s https://raw.githubusercontent.com/2amir563/uploadfiletotelegrambozorgtaraz2gig/main/install.sh)
 ```
